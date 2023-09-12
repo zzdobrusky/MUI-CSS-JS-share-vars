@@ -1,0 +1,26 @@
+.container {
+  padding: 20px;
+  /* @media (--mobile) {
+    padding: 2px;
+  } */
+}
+
+/* var doesn't work in media queries */
+/* @media (max-width: var(--mobileWidth)) {
+  .container {
+    padding: 4px;
+  }
+} */
+
+/* @media (--mobile) {
+  .container {
+    padding: 2px;
+  }
+} */
+
+.title {
+  font-weight: 300;
+  font-size: 32px;
+  margin-top: 20px;
+  color: var(--lightHeaderText);
+}

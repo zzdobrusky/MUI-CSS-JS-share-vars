@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@material-ui/core": "4.12.3",
+    "react": "16.8.6",
+    "react-dom": "16.8.6"
+  },
+  "description": "https://github.com/mui-org/material-ui/blob/v4.x/docs/src/pages/components/text-fields/BasicTextFields.js",
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "title": "Material demo",
+  "keywords": [],
+  "name": "mui-css-js-share-vars"
+}
